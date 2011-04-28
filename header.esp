@@ -1,0 +1,7 @@
+<div>
+	<p style="color:blue;">
+		<img src="/images/sling.jpg" align="right"/>
+		<%= currentNode.headline %>   
+	</p> 
+</div>
+
